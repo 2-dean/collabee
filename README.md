@@ -22,7 +22,7 @@
 + **판매자**: 판매상품 조회, 등록, 수정, 삭제
 
 ## DB 설계
-
+![DB](https://user-images.githubusercontent.com/104578954/208939640-3ea143ef-4288-448c-b964-b7db7f7c5e67.png)
 
 
 
