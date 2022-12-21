@@ -1,1 +1,1 @@
-# collabee-spring
+# collabee
